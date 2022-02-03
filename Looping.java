@@ -1,9 +1,7 @@
 /**
- * Looping.java (Assignment 1, Part 2)
- * @MarisaPaoneBU Marisa Paone
+ * Looping.java 
+ * @MarisaPaone
  */
-
-package cs520.hw1.part2;
 
 import java.util.Scanner;
 
