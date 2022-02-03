@@ -1,10 +1,8 @@
 /**
- * CoinMachine.java (Assignment 1, Part 1)
- * @MarisaPaoneBU Marisa Paone
+ * CoinMachine.java (
+ * @MarisaPaone 
  */
 
-
-package cs520.hw1.part1;
 
 import java.util.Scanner;
 
